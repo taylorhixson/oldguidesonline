@@ -4,6 +4,13 @@ title:  "NYUADGIS"
 date:   2019-12-09 1:31:54 +0400
 categories:
 ---
-# [Return to Old Guides Online](https://taylorhixson.github.io/oldguidesonline/)
+# About this guide
+**Creator**: Taylor Hixson
+**Usage**: This guide was used to support geospatial teaching and research across campus. The guide includes resources for course integrated support, such as workshop materials and written tutorials.
+**Years active**: January 2018-present.
+## [Return to Old Guides Online](https://taylorhixson.github.io/oldguidesonline/)
+***
 
 {% include 20191209-NYUADGIS.html %}
+***
+# [Return to Old Guides Online](https://taylorhixson.github.io/oldguidesonline/)
