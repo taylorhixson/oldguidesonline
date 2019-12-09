@@ -4,5 +4,6 @@ title:  "NYUADGIS"
 date:   2019-12-09 1:31:54 +0400
 categories:
 ---
-# Return to Old Guides Online
+# [Return to Old Guides Online](https://taylorhixson.github.io/oldguidesonline/)
+
 {% include 20191209-NYUADGIS.html %}
