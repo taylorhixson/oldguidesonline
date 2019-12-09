@@ -22,8 +22,8 @@ title: Old Guides Online
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   This website is a repository for viewing deleted or old versions of LibGuides.
-baseurl: "oldguidesonline" # the subpath of your site, e.g. /blog
-url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/oldguidesonline" # the subpath of your site, e.g. /blog
+url: "https://taylorhixson.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:  taylorhixson
 
