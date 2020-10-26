@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Imagine Science"
-date:   2019-12-09 1:31:54 +0400
+date:   2020-10-26 1:31:54 +0400
 categories:
 ---
 # About
